@@ -1,0 +1,302 @@
+[
+  {
+    "id": "gid://shopify/Shop/101",
+    "name": "Gadget Galaxy",
+    "description": "Your destination for electronics, gadgets and tech accessories",
+    "logoUrl": "/images/gadget-galaxy.png"
+  },
+  {
+    "id": "gid://shopify/Shop/102",
+    "name": "Bean Brothers Coffee",
+    "description": "Artisan coffee beans roasted weekly plus brewing gear",
+    "logoUrl": "/images/bean-brothers.png"
+  },
+  {
+    "id": "gid://shopify/Shop/103",
+    "name": "Thread & Tee",
+    "description": "Premium cotton t-shirts, hoodies and custom prints",
+    "logoUrl": "/images/thread-and-tee.png"
+  },
+  {
+    "id": "gid://shopify/Shop/104",
+    "name": "Bloom & Vines",
+    "description": "Fresh flower bouquets and indoor plants delivered nationwide",
+    "logoUrl": "/images/bloom-vines.png"
+  },
+  {
+    "id": "gid://shopify/Shop/105",
+    "name": "Pixel Pantry Prints",
+    "description": "Minimalist wall art, posters and digital downloads",
+    "logoUrl": "/images/pixel-pantry.png"
+  },
+  {
+    "id": "gid://shopify/Shop/106",
+    "name": "Summit Outdoors",
+    "description": "Camping, hiking and climbing gear for every adventure",
+    "logoUrl": "/images/summit-outdoors.png"
+  },
+  {
+    "id": "gid://shopify/Shop/107",
+    "name": "Paws & Whiskers",
+    "description": "Healthy treats, toys and accessories for cats and dogs",
+    "logoUrl": "/images/paws-whiskers.png"
+  },
+  {
+    "id": "gid://shopify/Shop/108",
+    "name": "Luna Skincare",
+    "description": "Clean, cruelty-free skincare with botanical ingredients",
+    "logoUrl": "/images/luna-skincare.png"
+  },
+  {
+    "id": "gid://shopify/Shop/109",
+    "name": "Crafty Corner",
+    "description": "DIY kits, yarn and supplies for makers and crafters",
+    "logoUrl": "/images/crafty-corner.png"
+  },
+  {
+    "id": "gid://shopify/Shop/110",
+    "name": "Urban Pedal Co.",
+    "description": "City bikes, e-bikes and stylish cycling apparel",
+    "logoUrl": "/images/urban-pedal.png"
+  },
+  {
+    "id": "gid://shopify/Shop/111",
+    "name": "Glow Candle Studio",
+    "description": "Hand-poured soy candles with natural fragrances",
+    "logoUrl": "/images/glow-candle.png"
+  },
+  {
+    "id": "gid://shopify/Shop/112",
+    "name": "Epicurean Eats",
+    "description": "Gourmet pantry staples, sauces and spices from around the world",
+    "logoUrl": "/images/epicurean-eats.png"
+  },
+  {
+    "id": "gid://shopify/Shop/113",
+    "name": "Pixel Pets",
+    "description": "8-bit inspired merchandise for retro-game pet lovers",
+    "logoUrl": "/images/pixel-pets.png"
+  },
+  {
+    "id": "gid://shopify/Shop/114",
+    "name": "Coastal Surf Supply",
+    "description": "Surfboards, wetsuits and beach lifestyle apparel",
+    "logoUrl": "/images/coastal-surf.png"
+  },
+  {
+    "id": "gid://shopify/Shop/115",
+    "name": "Aurora Jewelry",
+    "description": "Ethically-sourced gemstones and handcrafted fine jewelry",
+    "logoUrl": "/images/aurora-jewelry.png"
+  },
+  {
+    "id": "gid://shopify/Shop/116",
+    "name": "Mindful Mats",
+    "description": "Eco-friendly yoga mats and meditation accessories",
+    "logoUrl": "/images/mindful-mats.png"
+  },
+  {
+    "id": "gid://shopify/Shop/117",
+    "name": "Celestial Books",
+    "description": "Curated sci-fi and fantasy novels, collectibles and merch",
+    "logoUrl": "/images/celestial-books.png"
+  },
+  {
+    "id": "gid://shopify/Shop/118",
+    "name": "Heritage Leatherworks",
+    "description": "Hand-stitched leather bags, wallets and belts",
+    "logoUrl": "/images/heritage-leatherworks.png"
+  },
+  {
+    "id": "gid://shopify/Shop/119",
+    "name": "Brew Buddy",
+    "description": "Home-brewing equipment and small-batch beer kits",
+    "logoUrl": "/images/brew-buddy.png"
+  },
+  {
+    "id": "gid://shopify/Shop/120",
+    "name": "Starlight Stationery",
+    "description": "Foil-pressed greeting cards and personalized notebooks",
+    "logoUrl": "/images/starlight-stationery.png"
+  },
+  {
+    "id": "gid://shopify/Shop/121",
+    "name": "Nordic Knit Co.",
+    "description": "Scandinavian sweaters, mittens and wool accessories",
+    "logoUrl": "/images/nordic-knit.png"
+  },
+  {
+    "id": "gid://shopify/Shop/122",
+    "name": "Peak Performance Gear",
+    "description": "Functional fitness apparel and performance supplements",
+    "logoUrl": "/images/peak-performance.png"
+  },
+  {
+    "id": "gid://shopify/Shop/123",
+    "name": "Rustic Roots Home",
+    "description": "Farmhouse decor, reclaimed wood furniture and accents",
+    "logoUrl": "/images/rustic-roots.png"
+  },
+  {
+    "id": "gid://shopify/Shop/124",
+    "name": "Sakura Tea House",
+    "description": "Premium loose-leaf teas and traditional teaware",
+    "logoUrl": "/images/sakura-tea.png"
+  },
+  {
+    "id": "gid://shopify/Shop/125",
+    "name": "Pixel Print 3D",
+    "description": "Custom 3D-printed miniatures, cosplay props and gifts",
+    "logoUrl": "/images/pixel-print.png"
+  },
+  {
+    "id": "gid://shopify/Shop/126",
+    "name": "Sunrise Baby Boutique",
+    "description": "Organic baby clothes, toys and nursery essentials",
+    "logoUrl": "/images/sunrise-baby.png"
+  },
+  {
+    "id": "gid://shopify/Shop/127",
+    "name": "Velo Vintage",
+    "description": "Restored vintage bicycles and classic cycling jerseys",
+    "logoUrl": "/images/velo-vintage.png"
+  },
+  {
+    "id": "gid://shopify/Shop/128",
+    "name": "Modern Mixology",
+    "description": "Craft cocktail kits, bitters and bar tools",
+    "logoUrl": "/images/modern-mixology.png"
+  },
+  {
+    "id": "gid://shopify/Shop/129",
+    "name": "Playful Puzzles",
+    "description": "Beautiful jigsaw puzzles and brain-teasing games",
+    "logoUrl": "/images/playful-puzzles.png"
+  },
+  {
+    "id": "gid://shopify/Shop/130",
+    "name": "Zen Garden Co.",
+    "description": "Bonsai trees, zen sand gardens and meditation decor",
+    "logoUrl": "/images/zen-garden.png"
+  },
+  {
+    "id": "gid://shopify/Shop/131",
+    "name": "ByteSize PC Parts",
+    "description": "Custom PC components, RGB lighting and accessories",
+    "logoUrl": "/images/bytesize-pc.png"
+  },
+  {
+    "id": "gid://shopify/Shop/132",
+    "name": "Epic Threads",
+    "description": "Graphic tees inspired by movies, anime and pop culture",
+    "logoUrl": "/images/epic-threads.png"
+  },
+  {
+    "id": "gid://shopify/Shop/133",
+    "name": "Fresh Fins",
+    "description": "Sustainable seafood and gourmet tinned fish",
+    "logoUrl": "/images/fresh-fins.png"
+  },
+  {
+    "id": "gid://shopify/Shop/134",
+    "name": "Kinetic Kids",
+    "description": "STEM toys and hands-on science kits for children",
+    "logoUrl": "/images/kinetic-kids.png"
+  },
+  {
+    "id": "gid://shopify/Shop/135",
+    "name": "Aurora Athleisure",
+    "description": "Stylish activewear for yoga, running and everyday comfort",
+    "logoUrl": "/images/aurora-athleisure.png"
+  },
+  {
+    "id": "gid://shopify/Shop/136",
+    "name": "Retro Vinyl Vault",
+    "description": "Curated vintage records and turntable accessories",
+    "logoUrl": "/images/retro-vinyl.png"
+  },
+  {
+    "id": "gid://shopify/Shop/137",
+    "name": "Harvest Honey Co.",
+    "description": "Raw, single-origin honeys and beeswax candles",
+    "logoUrl": "/images/harvest-honey.png"
+  },
+  {
+    "id": "gid://shopify/Shop/138",
+    "name": "Cosmic Comics",
+    "description": "Indie comics, manga and collectible figurines",
+    "logoUrl": "/images/cosmic-comics.png"
+  },
+  {
+    "id": "gid://shopify/Shop/139",
+    "name": "Whisk & Bake",
+    "description": "Creative baking mixes, tools and decorating supplies",
+    "logoUrl": "/images/whisk-bake.png"
+  },
+  {
+    "id": "gid://shopify/Shop/140",
+    "name": "Silk Road Scarves",
+    "description": "Luxurious silk scarves with hand-drawn patterns",
+    "logoUrl": "/images/silk-road.png"
+  },
+  {
+    "id": "gid://shopify/Shop/141",
+    "name": "Green Sprout",
+    "description": "Hydroponic kits and microgreens for apartment living",
+    "logoUrl": "/images/green-sprout.png"
+  },
+  {
+    "id": "gid://shopify/Shop/142",
+    "name": "Cinephile Prints",
+    "description": "Limited-edition movie posters and film still art",
+    "logoUrl": "/images/cinephile-prints.png"
+  },
+  {
+    "id": "gid://shopify/Shop/143",
+    "name": "Trail Tails",
+    "description": "Outdoor gear for dogs: packs, booties and reflective vests",
+    "logoUrl": "/images/trail-tails.png"
+  },
+  {
+    "id": "gid://shopify/Shop/144",
+    "name": "Neon Noodles",
+    "description": "Artisanal ramen kits and spicy chili oils",
+    "logoUrl": "/images/neon-noodles.png"
+  },
+  {
+    "id": "gid://shopify/Shop/145",
+    "name": "Orbit Office",
+    "description": "Ergonomic office chairs and minimalist desk accessories",
+    "logoUrl": "/images/orbit-office.png"
+  },
+  {
+    "id": "gid://shopify/Shop/146",
+    "name": "Atlas Maps",
+    "description": "Beautiful world maps, globes and travel journals",
+    "logoUrl": "/images/atlas-maps.png"
+  },
+  {
+    "id": "gid://shopify/Shop/147",
+    "name": "Serene Sips",
+    "description": "Non-alcoholic sparkling teas and botanical tonics",
+    "logoUrl": "/images/serene-sips.png"
+  },
+  {
+    "id": "gid://shopify/Shop/148",
+    "name": "Frosty Friends",
+    "description": "Designer winter wear for kids and toddlers",
+    "logoUrl": "/images/frosty-friends.png"
+  },
+  {
+    "id": "gid://shopify/Shop/149",
+    "name": "Metro Minimal",
+    "description": "Capsule wardrobe essentials and neutral basics",
+    "logoUrl": "/images/metro-minimal.png"
+  },
+  {
+    "id": "gid://shopify/Shop/150",
+    "name": "SparkLab Electronics",
+    "description": "Maker-friendly electronics boards, sensors and kits",
+    "logoUrl": "/images/sparklab-electronics.png"
+  }
+]
