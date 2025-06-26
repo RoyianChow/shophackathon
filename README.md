@@ -1,4 +1,4 @@
-Shop Mini AI
+3Shop Mini AI
 
 A lightweight Shopify Mini built with React and the @shopify/shop-minis-react SDK. This project demonstrates how to integrate various Shop-Minis hooks, refine user queries via a GPT-based endpoint, and enrich product or shop listings with AI-powered enhancements.
 
@@ -71,35 +71,6 @@ Project Structure
 │   └── package.json
 └── README.md           # This file
 
-Hooks & Examples
-
-The following hooks are demonstrated in examples/:
-
-User & Navigation Hooks
-
-useCloseMini fileciteturn1file0
-
-useShopNavigation fileciteturn1file1
-
-useDeeplink fileciteturn1file2
-
-Product Hooks
-
-useCuratedProducts fileciteturn1file3
-
-useProductListActions fileciteturn1file4
-
-useProductLists fileciteturn1file5
-
-useProductSearch fileciteturn1file6
-
-useRecommendedProducts fileciteturn1file7
-
-Shop Hooks
-
-useRecommendedShops fileciteturn1file8
-
-useShop fileciteturn1file9
 
 Custom Features
 
